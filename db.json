@@ -1,0 +1,40 @@
+{
+  "employeeDetails": [
+    {
+      "id": "23",
+      "username": "Tony Thomas",
+      "email": "tony@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "24",
+      "username": "Tinu Jacob B",
+      "email": "jacob@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "26",
+      "username": "Jane Doe",
+      "email": "doe@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "34",
+      "username": "Tony Paul",
+      "email": "paul@hotmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "76",
+      "username": "Vijay Bob",
+      "email": "bob@yahoo.com",
+      "status": "Active"
+    },
+    {
+      "id": "90",
+      "username": "Surya Lal P",
+      "email": "suryalal809@gmail.com",
+      "status": "Inactive"
+    }
+  ]
+}
